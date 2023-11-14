@@ -1,4 +1,4 @@
-USE competition;
+USE vul;
 
 drop table if exists `users`;
 create table if not exists `users`
